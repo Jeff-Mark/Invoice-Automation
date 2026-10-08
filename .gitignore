@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+input/
+processed/
+
+supplier_template.xlsx
